@@ -1,12 +1,25 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=950112&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=950112&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ####  :wave: Welcome my  ✨ _special_ ✨ github profile 💜
+   <br/>
+
+   ✉️Email✉️<br/>
+   ssr3194@gmail.com
+
 
  <br/>
+  <br/>
+
+
+안녕하세요 😊  <br/>
+제 이름은 박현주 이고 개발자 꿈나무 입니다! 💕  <br/>
+뭐든 배우려는 자세로 학습에 임하고 있습니다 ✍️  <br/>
+
  <br/>
+ 
 
 
  ####  :clipboard: Once I've Used 
