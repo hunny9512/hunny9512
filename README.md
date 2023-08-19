@@ -49,7 +49,10 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ssr3194)](https://velog.io/@ssr3194) 
  
 
-
+<br/>
+  <br/>
+  <br/>
+  <br/>
 
 
 
@@ -67,3 +70,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
