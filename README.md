@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=950112&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ####  :wave: Welcome my  ✨ _special_ ✨ github profile 💜
