@@ -5,11 +5,8 @@
 
 ####  :wave: Welcome my  ✨ _special_ ✨ github profile 💜
    <br/>
-
    ✉️Email✉️<br/>
    ssr3194@gmail.com
-
-
  <br/>
   <br/>
 
