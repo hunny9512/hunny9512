@@ -89,9 +89,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunny9512&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 
