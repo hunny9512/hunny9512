@@ -5,12 +5,12 @@
 
 <br/>
 <br/>
+
 ####  :wave: hi there!  💜 contact me 💜
+
    <br/>
-   <div>
     💌 ssr3194@gmail.com <br/>
     ✍🏻 velog.io/@ssr3194
-   </div>
  
   <br/>
  <br/>
