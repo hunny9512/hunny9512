@@ -10,8 +10,7 @@
 
 
 <div>
-<h3>:wave: hi there!  </h3>
-<h3>💜 contact me 💜</h3>
+<h3> hi there! contact me 🤍 </h3>
    <br>
     ✉️ ssr3194@gmail.com <br/>
     ✍🏻 velog.io/@ssr3194
@@ -38,6 +37,11 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/java-DB7093?style=for-the-badge&logo=java&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/oracle-DB7093?style=for-the-badge&logo=oracle&logoColor=ffd35b" />&nbsp
+</div>
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -51,6 +55,15 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
+
+<br/>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
+
 
   <br/>
   <br/>
