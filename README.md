@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=150&section=header&text=welcome%20to<br/>hyunju's%20github&fontColor=d9c5fb&fontSize=55&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=welcome%20to<br/>hyunju's%20github&fontColor=d9c5fb&fontSize=55&animation=fadeIn&fontAlignY=55" />
 
 
 ####  :wave:   💜 contact me 💜
