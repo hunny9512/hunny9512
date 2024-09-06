@@ -1,25 +1,18 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=welcome to hyunju's github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-####  :wave: Welcome my  ✨ _special_ ✨ github profile 💜
+####  :wave:   💜 contact me 💜
    <br/>
-   ✉️Email✉️<br/>
-   ssr3194@gmail.com
- <br/>
+  💌 ssr3194@gmail.com <br/>
+  ✍🏻 velog.io/@ssr3194
   <br/>
-
-
-
  <br/>
  
 
 
- ####  :clipboard: Once I've Used 
-
-
-  <br/>
+ ####  :clipboard: ✨ Tech Stack ✨
   <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
