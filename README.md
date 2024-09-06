@@ -8,12 +8,12 @@
 
 ####  :wave: hi there!  💜 contact me 💜
 
-   <br/>
+   <br>
     💌 ssr3194@gmail.com <br/>
     ✍🏻 velog.io/@ssr3194
  
-    <br/>
-    <br/>
+    <br>
+    <br>
 
   
   <h3 align="center">✨ Tech Stack ✨</h3>
