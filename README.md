@@ -10,7 +10,7 @@
 
 
 <div>
-####  :wave: hi there!  💜 contact me 💜
+<h3>:wave: hi there!  💜 contact me 💜</h3>  
 
    <br>
     💌 ssr3194@gmail.com <br/>
