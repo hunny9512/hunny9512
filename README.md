@@ -2,7 +2,7 @@
 
 
 <div>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&width=auto&section=header&text=welcome%20to%20%0Ahyunny's%20github✨&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&width=auto&section=header&text=Hyunny's%20Frontend%20Journey%20🌱&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55" />
 </div>
 
 <br/>
