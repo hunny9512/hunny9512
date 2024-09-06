@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=welcome to hyunju's github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&text=welcometohyunjus github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ####  :wave:   💜 contact me 💜
