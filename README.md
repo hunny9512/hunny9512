@@ -1,18 +1,22 @@
 <div align="center">
 
+
+<div>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&width=auto&section=header&text=welcome%20to%20%0Ahyunny's%20github✨&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55" />
-
+</div>
 
 <br/>
 <br/>
 
+
+<div>
 ####  :wave: hi there!  💜 contact me 💜
 
    <br>
     💌 ssr3194@gmail.com <br/>
     ✍🏻 velog.io/@ssr3194
+</div>
 
-    <br><br/>
 
   
   <h3 align="center">✨ Tech Stack ✨</h3>
