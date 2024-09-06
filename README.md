@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=header&text=welcome%20to&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55" />
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=header&text=hyunju's%20github&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=welcome%20to%20%0Ahyunju's%20github&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=55" />
+
 
 
 ####  :wave:   💜 contact me 💜
