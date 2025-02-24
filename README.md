@@ -76,15 +76,6 @@
   <br/>
   <br/>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hunny9512&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/hunny9512"
-  width="600"
-  height="300"
-/>
-</a> 
-
-
 <!--
 **hunny9512/hunny9512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -101,6 +92,16 @@ Here are some ideas to get you started:
 -->
 
 ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunny9512&count_private=true)
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hunny9512&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hunny9512"
+  width="600"
+  height="300"
+/>
+</a> 
+
 
 
 
