@@ -5,28 +5,19 @@
 <br/>
 
 
-<div>
 
   <div>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&width=auto&section=header&text=Hyunny%20Codes%20💻&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=55" />
 </div>
 
 
-
-
 <br/>
 <br/>
-<h3> hi there! contact me 🤍 </h3>
-    ✉️ ssr3194@gmail.com <br/>
-    ✍🏻 velog.io/@ssr3194
+<br/>
+<div>
+  <h1>🌟 끊임없이 배우고 도전하는 개발자</h1>
+  <p>어제보다 나은 개발자가 되기 위해, 오늘도 한 걸음!</p>
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
   
   <h3 align="center">✨ Tech Stack ✨</h3>
