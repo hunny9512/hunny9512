@@ -2,7 +2,7 @@
   <br/>
   
     <div>
-        <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&width=auto&section=header&text=Hyunny%20Codes%20💻          &fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&width=auto&section=header&text=Hyunny%20Codes%20💻     &fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=55" />
     </div>
     
     
@@ -79,4 +79,3 @@
     <br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</div>
