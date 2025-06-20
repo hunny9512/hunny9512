@@ -65,20 +65,6 @@
  </div>
  
  
-   <br/>
-   <br/>
- 
- 
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hunny9512&utm_content=farm">
- <img
-   src="https://render.gitanimals.org/farms/hunny9512"
-   width="600"
-   height="300"
- />
- </a> 
-  
-  
-<br/>
 <br/>
 <br/>
 <br/>
