@@ -33,6 +33,7 @@
  <br>
  
  ### 🛠 Tools
+ <hr/>
  <div >
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -42,7 +43,8 @@
  </div>
  <br/>
  
- <h3>📚 Studying</h3>
+ ### 📚 Studying
+ <hr />
  <div >
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />&nbsp
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
