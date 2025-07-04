@@ -11,10 +11,15 @@
  <br/>
  <br/>
  <br/>
- 
 
+ <h2> ✉️ Contect Me</h2>
+ <hr/>
+ <div>
+  ● Email | ssr3194@gmail.com
+  ● Blog  | https://velog.io/@ssr3194
+ </div>
  
- <h3>💻 Skils </h3>
+ <h2>💻 Skils </h2>
  <hr/>
  <div>
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -31,11 +36,9 @@
    <img src="https://img.shields.io/badge/oracle-DB7093?style=for-the-badge&logo=oracle&logoColor=ffd35b" />&nbsp
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp
  </div>
- 
- 
  <br>
  
- <h3 >🛠 Tools</h3>
+ <h2 >🛠 Tools</h2>
  <hr/>
  <div >
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -45,11 +48,9 @@
    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
  </div>
  
- 
- 
  <br/>
  
- <h3 >📚 Studying</h3>
+ <h2>📚 Studying</h2>
  <hr/>
  <div >
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />&nbsp
@@ -57,9 +58,6 @@
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
  </div>
  
- 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
