@@ -11,6 +11,7 @@
   ● Blog  | https://velog.io/@ssr3194
  <br/>
  <br/>
+ <br/>
  <h3>💻 Skils </h3>
  <hr/>
  <div>
@@ -31,7 +32,7 @@
  </div>
  <br>
  
- <h3>🛠 Tools</h3>
+ ###🛠 Tools
  <div >
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
