@@ -6,10 +6,9 @@
  <br/>
  <br/>
  <h3> ✉️ Contect Me</h3>
- <div>
+ <hr/>
   ● Email | ssr3194@gmail.com <br/>
   ● Blog  | https://velog.io/@ssr3194
- </div>
  <br/>
  
  <h3>💻 Skils </h3>
