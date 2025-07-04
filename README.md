@@ -3,22 +3,15 @@
 
 끊임없이 배우고 도전하는 개발자 박현주 입니다.
 어제보다 나은 개발자가 되기 위해, 오늘도 한 걸음! 💪🏻
-
- 
  <br/>
  <br/>
- <br/>
- <br/>
-
  <h2> ✉️ Contect Me</h2>
- <hr/>
  <div>
   ● Email | ssr3194@gmail.com
   ● Blog  | https://velog.io/@ssr3194
  </div>
  
  <h2>💻 Skils </h2>
- <hr/>
  <div>
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
@@ -37,7 +30,6 @@
  <br>
  
  <h2 >🛠 Tools</h2>
- <hr/>
  <div >
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -49,7 +41,6 @@
  <br/>
  
  <h2>📚 Studying</h2>
- <hr/>
  <div >
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />&nbsp
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
