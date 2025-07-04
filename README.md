@@ -1,5 +1,4 @@
-<div align="center">
- 
+
  
  
  <br/>
@@ -23,8 +22,10 @@
  <br/>
  <br/>
  
+
  
- <h3>✨ Tech Stack ✨</h3>
+ <h3>💻 Skils </h3>
+ <hr/>
  <div>
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
@@ -45,6 +46,7 @@
  <br>
  
  <h3 >🛠 Tools 🛠</h3>
+ <hr/>
  <div >
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -58,6 +60,7 @@
  <br/>
  
  <h3 >📚 Studying 📚</h3>
+ <hr/>
  <div >
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />&nbsp
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
