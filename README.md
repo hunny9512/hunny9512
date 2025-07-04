@@ -1,4 +1,4 @@
-## 안녕하세요! 👋🏻
+# 안녕하세요! 👋🏻
 
 
 끊임없이 배우고 도전하는 개발자 박현주 입니다.<br/>
@@ -10,8 +10,9 @@
   ● Email | ssr3194@gmail.com <br/>
   ● Blog  | https://velog.io/@ssr3194
  <br/>
- 
+ <br/>
  <h3>💻 Skils </h3>
+ <hr/>
  <div>
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
