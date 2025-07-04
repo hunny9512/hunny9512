@@ -1,13 +1,13 @@
 ## 안녕하세요! 👋🏻
 
 
-끊임없이 배우고 도전하는 개발자 박현주 입니다.
+끊임없이 배우고 도전하는 개발자 박현주 입니다. <br/>
 어제보다 나은 개발자가 되기 위해, 오늘도 한 걸음! 💪🏻
  <br/>
  <br/>
  <h2> ✉️ Contect Me</h2>
  <div>
-  ● Email | ssr3194@gmail.com
+  ● Email | ssr3194@gmail.com <br/>
   ● Blog  | https://velog.io/@ssr3194
  </div>
  
