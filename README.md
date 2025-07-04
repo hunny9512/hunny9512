@@ -1,14 +1,13 @@
 
+
+안녕하세요! 👋🏻
+<hr/>
  
- 
+
  <br/>
- 
- 
- 
  <br/>
- <br/>
- <div align="center">
-   <h3>🌟 끊임없이 배우고 도전하는 개발자</h3>
+ <div>
+   <h3>끊임없이 배우고 도전하는 개발자 박현주 입니다.</h3>
    <p>어제보다 나은 개발자가 되기 위해, 오늘도 한 걸음! 💪🏻 </p>
  </div>
  
@@ -40,7 +39,7 @@
  
  <br>
  
- <h3 >🛠 Tools 🛠</h3>
+ <h3 >🛠 Tools</h3>
  <hr/>
  <div >
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -54,7 +53,7 @@
  
  <br/>
  
- <h3 >📚 Studying 📚</h3>
+ <h3 >📚 Studying</h3>
  <hr/>
  <div >
    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />&nbsp
