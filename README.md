@@ -1,7 +1,7 @@
 ## 안녕하세요! 👋🏻
 
 
-끊임없이 배우고 도전하는 개발자 박현주 입니다. <br/>
+# 끊임없이 배우고 도전하는 개발자 박현주 입니다. <br/>
 어제보다 나은 개발자가 되기 위해, 오늘도 한 걸음! 💪🏻
  <br/>
  <br/>
@@ -10,6 +10,7 @@
   ● Email | ssr3194@gmail.com <br/>
   ● Blog  | https://velog.io/@ssr3194
  </div>
+ <br/>
  
  <h2>💻 Skils </h2>
  <div>
@@ -19,6 +20,7 @@
    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />&nbsp
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
  </div>
+ <br/>
  
  <div>
    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -37,7 +39,6 @@
    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
  </div>
- 
  <br/>
  
  <h2>📚 Studying</h2>
