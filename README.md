@@ -24,8 +24,7 @@
  </div>
  <br/>
  <div>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height: 30px;" />
-   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+   <img src="https://camo.githubusercontent.com/15e6d3a26459476d25839100a5b5eaf40d48eb5815e37268e434a668e53219cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3331373843363f7374796c653d706c6173746963266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&amp;logo=TypeScript&amp;logoColor=white" style="max-width: 100%;">&nbsp
    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
    <img src="https://img.shields.io/badge/oracle-DB7093?style=for-the-badge&logo=oracle&logoColor=ffd35b" />&nbsp
