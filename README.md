@@ -106,11 +106,23 @@
  
  ### 📚 Studying
  <hr />
- <div >
-   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />&nbsp
-   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
- </div>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Svelte-4A4A55?style=plastic&logo=svelte&logoColor=FF3E00" 
+    alt="Svelte" 
+    data-canonical-src="https://img.shields.io/badge/Svelte-4A4A55?style=plastic&logo=svelte&logoColor=FF3E00" 
+    style="max-width: 100%;">&nbsp;
+  <img 
+    src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" 
+    alt="Vue.js" 
+    data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" 
+    style="max-width: 100%;">&nbsp;
+  <img 
+    src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" 
+    alt="React Native" 
+    data-canonical-src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" 
+    style="max-width: 100%;">
+</div>
  
 <br/>
 <br/>
