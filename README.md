@@ -34,13 +34,37 @@
  
  ### 🛠 Tools
  <hr/>
- <div >
-   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
- </div>
+ <div>
+  <img 
+    src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white" 
+    alt="GitHub" 
+    data-canonical-src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white" 
+    style="max-width: 100%;">
+  &nbsp;
+  <img 
+    src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=plastic&logo=notion&logoColor=black" 
+    alt="Notion" 
+    data-canonical-src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=plastic&logo=notion&logoColor=black" 
+    style="max-width: 100%;">
+  &nbsp;
+  <img 
+    src="https://img.shields.io/badge/git-F05033.svg?style=plastic&logo=git&logoColor=white" 
+    alt="Git" 
+    data-canonical-src="https://img.shields.io/badge/git-F05033.svg?style=plastic&logo=git&logoColor=white" 
+    style="max-width: 100%;">
+  &nbsp;
+  <img 
+    src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white" 
+    alt="Figma" 
+    data-canonical-src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white" 
+    style="max-width: 100%;">
+  &nbsp;
+  <img 
+    src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=plastic&logo=visual-studio-code&logoColor=22ABF3" 
+    alt="VS Code" 
+    data-canonical-src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=plastic&logo=visual-studio-code&logoColor=22ABF3" 
+    style="max-width: 100%;">
+</div>
  <br/>
  
  ### 📚 Studying
