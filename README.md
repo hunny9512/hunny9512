@@ -45,30 +45,22 @@
     src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white" 
     alt="React" 
     data-canonical-src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white" 
-    style="max-width: 100%;">
-</div>
-
-<br/>
-
-<div>
+    style="max-width: 100%;">&nbsp;
   <img 
     src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" 
     alt="TypeScript" 
     data-canonical-src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white" 
     style="max-width: 100%;">&nbsp;
-
   <img 
     src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=20232a" 
     alt="JavaScript" 
     data-canonical-src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=20232a" 
     style="max-width: 100%;">&nbsp;
-
   <img 
     src="https://img.shields.io/badge/oracle-DB7093?style=plastic&logo=oracle&logoColor=ffd35b" 
     alt="Oracle" 
     data-canonical-src="https://img.shields.io/badge/oracle-DB7093?style=plastic&logo=oracle&logoColor=ffd35b" 
     style="max-width: 100%;">&nbsp;
-
   <img 
     src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" 
     alt="PHP" 
