@@ -20,25 +20,21 @@
     alt="HTML5" 
     data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" 
     style="max-width: 100%;">&nbsp;
-  
   <img 
     src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" 
     alt="styled-components" 
     data-canonical-src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" 
     style="max-width: 100%;">&nbsp;
-
   <img 
     src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" 
     alt="CSS3" 
     data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" 
     style="max-width: 100%;">&nbsp;
-
   <img 
     src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" 
     alt="Next.js" 
     data-canonical-src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" 
     style="max-width: 100%;">&nbsp;
-
   <img 
     src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" 
     alt="Java" 
