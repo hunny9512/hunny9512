@@ -5,8 +5,8 @@
 어제보다 나은 개발자가 되기 위해, 오늘도 한 걸음! 💪🏻
  <br/>
  <br/>
- <h3> ✉️ Contect Me</h3>
- <hr/>
+ 
+ ## ✉️ Contect Me
   ● Email | ssr3194@gmail.com <br/>
   ● Blog  | https://velog.io/@ssr3194
  <br/>
@@ -68,9 +68,8 @@
     style="max-width: 100%;">
 </div>
  <br>
- 
- ### 🛠 Tools
- <hr/>
+
+ ## 🛠 Tools
  <div>
   <img 
     src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white" 
@@ -104,8 +103,7 @@
 </div>
  <br/>
  
- ### 📚 Studying
- <hr />
+## 📚 Studying
 <div>
   <img 
     src="https://img.shields.io/badge/Svelte-4A4A55?style=plastic&logo=svelte&logoColor=FF3E00" 
